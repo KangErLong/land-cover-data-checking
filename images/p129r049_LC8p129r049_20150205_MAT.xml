@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Metadata Description="30米全球地表覆盖数据更新分景成果元数据">
+  <ProductInformation Description="成果信息">
+    <ProductName Description="成果名称">GlobeLand30</ProductName>
+    <FileName Description="文件名">p129r049_LC8p129r049_20150205</FileName>
+    <ReferenceCoordinateSystem Description="参考坐标系">WGS84</ReferenceCoordinateSystem>
+    <ElevationSystem Description="高程系统">EGM96</ElevationSystem>
+    <MapProject Description="地图投影">UTM</MapProject>
+    <SixDegreesZoneNumber Description="6°分带带号">17</SixDegreesZoneNumber>
+    <CentralMeridian Description="中央经线">E099</CentralMeridian>
+    <CoordinateUnit Description="坐标单位">meter</CoordinateUnit>
+    <XcoordinateConstant Description="X坐标加常数">500000 Meters</XcoordinateConstant>
+  </ProductInformation>
+  <ImageInformation Description="数据源信息">
+    <ImgSource Description="分类影像数据源">LC8</ImgSource>
+    <ImgDate Description="影像时相">20150205</ImgDate>
+    <ImgResolution Description="数据分辨率">030</ImgResolution>
+    <ImgBand Description="波段数">6</ImgBand>
+  </ImageInformation>
+  <ProduceInformation Description="生产信息">
+    <Producer Description="产品研制单位">陕西测绘地理信息局</Producer>
+    <ProduceDate Description="产品研制时间">2017</ProduceDate>
+    <QualityCheck Description="质量检查">1</QualityCheck>
+    <BriefDescriptionoftheProduction Description="生产情况简要描述"> 西边缺2015年影像，LC与影像一致，2010 年影像和2015年影像基本没有变化，仅对重点区域进行更新。</BriefDescriptionoftheProduction>
+    <WestNorthOverlay Description="接边情况">已接边</WestNorthOverlay>
+  </ProduceInformation>
+</Metadata>
